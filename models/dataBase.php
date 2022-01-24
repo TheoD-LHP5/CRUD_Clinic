@@ -4,9 +4,9 @@ class Database
 {
     protected $dataBase;
 
-    private $user = 'Theo92DBqc';
-    private $password = 'cod92highlanderdb';
-    private $dbName = 'hospitale2n';
+    private $user = '...';
+    private $password = '...';
+    private $dbName = '...';
 
     public function __construct()
     {
